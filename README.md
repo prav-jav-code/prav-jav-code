@@ -1,58 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Praveen%20Kumar%20Raju&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20CSE%20Undergraduate&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Praveen%20Kumar%20Raju&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" />
 </p>
 
-<h3 align="center">Turning Data into Actionable Insights 📊</h3>
+<h3 align="center">Building Data-Driven Solutions with Real Impact</h3>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 Profile Summary  
 
-I am a **Computer Science undergraduate** with a strong focus on **Data Analytics**.  
-I specialize in analyzing, cleaning, and visualizing data to extract meaningful insights that support informed decision-making.
+Computer Science undergraduate specializing in **Data Analytics**, with hands-on experience in **Python, SQL, and Excel**.  
 
-- 📊 Skilled in **Python, SQL, and Excel**  
-- 📈 Strong foundation in **Data Analysis, Statistics & Visualization**  
-- 🧠 Problem-solving mindset with analytical thinking  
-- 🌱 Currently exploring **advanced analytics & real-world datasets**  
+Strong in **data cleaning, visualization, and statistical analysis**, with a focus on transforming raw data into actionable insights. Passionate about solving real-world problems using data-driven approaches.
 
 ---
 
-## 🛠️ Technical Skills  
+## ⚡ Core Competencies  
+
+- Data Analysis & Interpretation  
+- Data Cleaning & Preprocessing  
+- Data Visualization & Reporting  
+- Statistical Thinking  
+- Problem Solving  
+
+---
+
+## 🛠️ Technical Stack  
 
 **Languages:**  
 `Python` `Java` `C` `C++`  
 
-**Data Analytics:**  
-`Excel` `SQL` `Data Cleaning` `Data Visualization`  
+**Data Tools:**  
+`SQL` `Excel`  
 
-**Tools & Platforms:**  
+**Concepts:**  
+`Statistics` `Data Analysis` `Data Visualization`  
+
+**Tools:**  
 `GitHub`  
-
-**Core Concepts:**  
-`Statistics` `Data Analysis` `Data Interpretation`  
 
 ---
 
-## 📊 GitHub Overview  
+## 📊 GitHub Performance  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prav-jav-code&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prav-jav-code&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prav-jav-code&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prav-jav-code&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📂 Key Project  
+## 📂 Project Experience  
 
-### Community Crime Reporting Web Application  
-A web-based platform designed to improve community safety and enable structured data collection.
+### 🔹 Community Crime Reporting Web Application  
 
-**Key Contributions:**
-- Developed an **anonymous reporting system**  
-- Designed **data collection framework** for analysis  
-- Enhanced communication between users and authorities  
-- Built with scalability for future data analytics integration  
+**Overview:**  
+Developed a web-based platform to enable structured and anonymous reporting of crime incidents.
+
+**Impact & Contributions:**  
+- Designed **anonymous reporting mechanism** to enhance user safety  
+- Built **structured data pipelines** for better data collection  
+- Enabled **data-driven communication** between community and authorities  
+- Scalable design to support future analytics and dashboards  
 
 ---
 
@@ -68,34 +76,34 @@ A web-based platform designed to improve community safety and enable structured 
 
 ## 🏆 Achievements  
 
-- Participated in Hackathons (2024 & 2025)  
-- Guest Coordinator – Podcast Team, Eloquence Club  
+- Participated in Hackathons (2024, 2025)  
+- Guest Coordinator – Eloquence Club Podcast Team  
 
 ---
 
-## 🎯 Areas of Interest  
+## 🎯 Focus Areas  
 
 - Data Analytics  
 - Data Visualization  
 - Dashboard Development  
-- Real-world Data Problem Solving  
+- Real-world Data Applications  
 
 ---
 
 ## 📫 Contact  
 
-- 📧 Email: sarikondapraveenkumarraju2@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/praveen-sarikonda-ba7144329  
-- 💻 GitHub: https://github.com/prav-jav-code  
+- Email: sarikondapraveenkumarraju2@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/praveen-sarikonda-ba7144329  
+- GitHub: https://github.com/prav-jav-code  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prav-jav-code&label=Profile%20Views&color=444&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=prav-jav-code&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Turning data into insights and insights into decisions.”</i>
+  <b>“Data is valuable only when transformed into meaningful insights.”</b>
 </p>

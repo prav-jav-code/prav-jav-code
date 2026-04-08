@@ -106,6 +106,10 @@ Developed a web-based platform to enable structured and anonymous reporting of c
   <img src="https://img.shields.io/badge/GitHub-View%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://praveenkumarrajusarikonda.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -113,6 +117,8 @@ Developed a web-based platform to enable structured and anonymous reporting of c
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Open+to+Opportunities;Let's+Build+Something+Amazing;Data+Driven+Mindset" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prav-jav-code&label=Profile%20Views&color=0e75b6&style=flat" />

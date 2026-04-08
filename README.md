@@ -1,112 +1,101 @@
-<h1 align="center">Hey 👋, I'm Praveen Kumar Raju</h1>
-<h3 align="center">📊 Data Analyst in Progress | 💻 CSE Student | 🚀 Insight Builder</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Praveen%20Kumar%20Raju&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20CSE%20Undergraduate&descAlignY=55&descSize=16" />
+</p>
+
+<h3 align="center">Turning Data into Actionable Insights 📊</h3>
+
+---
+
+## 👨‍💻 About Me  
+
+I am a **Computer Science undergraduate** with a strong focus on **Data Analytics**.  
+I specialize in analyzing, cleaning, and visualizing data to extract meaningful insights that support informed decision-making.
+
+- 📊 Skilled in **Python, SQL, and Excel**  
+- 📈 Strong foundation in **Data Analysis, Statistics & Visualization**  
+- 🧠 Problem-solving mindset with analytical thinking  
+- 🌱 Currently exploring **advanced analytics & real-world datasets**  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Languages:**  
+`Python` `Java` `C` `C++`  
+
+**Data Analytics:**  
+`Excel` `SQL` `Data Cleaning` `Data Visualization`  
+
+**Tools & Platforms:**  
+`GitHub`  
+
+**Core Concepts:**  
+`Statistics` `Data Analysis` `Data Interpretation`  
+
+---
+
+## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Praveen%20Kumar%20Raju&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prav-jav-code&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prav-jav-code&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🧠 About Me  
+## 📂 Key Project  
 
-💡 I’m a Computer Science student passionate about **Data Analytics** and solving real-world problems using data.  
+### Community Crime Reporting Web Application  
+A web-based platform designed to improve community safety and enable structured data collection.
 
-📊 I specialize in:
-- Data Cleaning & Processing  
-- Data Visualization  
-- Extracting Insights from Raw Data  
-
-🚀 I enjoy building systems where **data drives decisions**, and I continuously improve my skills through projects and learning.
-
----
-
-## ⚡ Tech Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Data%20Querying-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-Insights-blueviolet?style=for-the-badge"/>
-</p>
+**Key Contributions:**
+- Developed an **anonymous reporting system**  
+- Designed **data collection framework** for analysis  
+- Enhanced communication between users and authorities  
+- Built with scalability for future data analytics integration  
 
 ---
 
-## 📊 GitHub Analytics  
+## 📜 Certifications  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prav-jav-code&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prav-jav-code&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prav-jav-code&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Project  
-
-### 🔹 Community Crime Reporting System  
-🧩 A smart web platform for reporting and analyzing crime data  
-
-✨ Key Highlights:
-- 🔐 Anonymous reporting system  
-- 📊 Structured data collection  
-- 🤝 Improved communication between users & authorities  
-- 📈 Supports future data analytics integration  
-
----
-
-## 🏅 Certifications  
-
-✔️ Deloitte Australia – Data Analytics Job Simulation  
-✔️ Generative AI (GenAI) – Outskill  
-✔️ Python Essentials 1  
-✔️ CCNA – Introduction to Networks  
-✔️ CCNA – Enterprise Networking, Security & Automation  
+- Deloitte Australia – Data Analytics Job Simulation  
+- Generative AI (GenAI) – Outskill  
+- Python Essentials 1  
+- CCNA – Introduction to Networks  
+- CCNA – Enterprise Networking, Security and Automation  
 
 ---
 
 ## 🏆 Achievements  
 
-🥇 Hackathons Participant (2024 & 2025)  
-🎤 Guest Coordinator – Eloquence Club Podcast Team  
+- Participated in Hackathons (2024 & 2025)  
+- Guest Coordinator – Podcast Team, Eloquence Club  
 
 ---
 
-## 🎯 Interests  
+## 🎯 Areas of Interest  
 
-📊 Data Visualization  
-📈 Analytics & Dashboards  
-🧠 Exploring datasets & trends  
+- Data Analytics  
+- Data Visualization  
+- Dashboard Development  
+- Real-world Data Problem Solving  
 
 ---
 
-## 🌐 Let's Connect  
+## 📫 Contact  
+
+- 📧 Email: sarikondapraveenkumarraju2@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/praveen-sarikonda-ba7144329  
+- 💻 GitHub: https://github.com/prav-jav-code  
+
+---
 
 <p align="center">
-  <a href="mailto:sarikondapraveenkumarraju2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/prav-jav-code">
-    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/praveen-sarikonda-ba7144329">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=prav-jav-code&label=Profile%20Views&color=444&style=flat" />
 </p>
 
 ---
 
-## 👀 Profile Views  
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prav-jav-code&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <i>“Turning data into insights and insights into decisions.”</i>
 </p>
-
----
-
-<h3 align="center">⚡ “Data is the new oil, but insights are the real fuel.”</h3>

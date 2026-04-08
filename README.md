@@ -2,7 +2,7 @@
 <h3 align="center">📊 Data Analyst in Progress | 💻 CSE Student | 🚀 Insight Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Excel;Building+Data-Driven+Solutions;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Praveen%20Kumar%20Raju&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18" />
 </p>
 
 ---

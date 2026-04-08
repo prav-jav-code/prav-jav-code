@@ -90,13 +90,29 @@ Developed a web-based platform to enable structured and anonymous reporting of c
 
 ---
 
-## 📫 Contact  
+## 🌐 Connect With Me  
 
-- Email: sarikondapraveenkumarraju2@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/praveen-sarikonda-ba7144329  
-- GitHub: https://github.com/prav-jav-code  
+<p align="center">
+
+<a href="mailto:sarikondapraveenkumarraju2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/praveen-sarikonda-ba7144329">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/prav-jav-code">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Open+to+Opportunities;Let's+Build+Something+Amazing;Data+Driven+Mindset" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prav-jav-code&label=Profile%20Views&color=0e75b6&style=flat" />
